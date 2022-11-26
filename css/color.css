@@ -1,0 +1,33 @@
+.bg-red {
+    background: #a71e1e!important;
+}
+
+
+.dropdown-item:hover {
+    background: #8f0404!important;
+}
+
+.dropdown-menu li a {
+    color: #fff!important;
+}
+
+.text-red {
+    color: #a71e1e!important;
+}
+
+.bg-blue {
+    background: #0735b3!important;
+}
+
+.btn-blue {
+    background: #0735b3!important;
+    color: #fff!important;
+}
+
+.btn-blue:hover {
+    background: #031d64!important;
+}
+
+.text-blue {
+    color: #0735b3!important;
+}

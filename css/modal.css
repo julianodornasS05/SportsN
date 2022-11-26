@@ -1,0 +1,32 @@
+.modal1,
+.modal2,
+.modal3,
+.modal4 {
+    display:none;
+    position: fixed;
+    z-index: 200;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0,0.6);
+}
+
+.modal1-content,
+.modal2-content,
+.modal3-content,
+.modal4-content {
+    width: 50%;
+    margin:auto;
+    padding: 6%;
+}
+
+.close {
+    position: absolute;
+    right: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer
+}
+
+.close:hover {
+    color: #0735b3;
+}
